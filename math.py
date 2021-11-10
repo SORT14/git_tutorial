@@ -4,5 +4,5 @@ def add (x,y)
   
 # Also needed to implement this
 def mul(x,y)
-  return None
+  return x*y
   
